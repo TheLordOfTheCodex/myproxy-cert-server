@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadCertificateFileName</key>
+			<string>MyProxy-CA.cer</string>
+			<key>PayloadContent</key>
+			<data>
+			MIIDnTCCAoWgAwIBAgIUbcgh5WgEd0IheOKfqyriYUYOiuIwDQYJ
+			KoZIhvcNAQELBQAwXjELMAkGA1UEBhMCVVMxCzAJBgNVBAgMAkNB
+			MRYwFAYDVQQHDA1TYW4gRnJhbmNpc2NvMRAwDgYDVQQKDAdNeVBy
+			b3h5MRgwFgYDVQQDDA9NeVByb3h5IFJvb3QgQ0EwHhcNMjYwODI0
+			MjE1MzAzWhcNMzYwODIxMjE1MzAzWjBeMQswCQYDVQQGEwJVUzEL
+			MAkGA1UECAwCQ0ExFjAUBgNVBAcMDVNhbiBGcmFuY2lzY28xEDAO
+			BgNVBAoMB015UHJveHkxGDAWBgNVBAMMD015UHJveHkgUm9vdCBD
+			QTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAO6C/xzK
+			L9eUWlJ2PcRP/19+OGrlgc6XVfYZuNjLwBOzKU6fLFGIxf5pfCtt
+			dlZl4V865L8Ra8oFnf7N6Bgxf04SQSP+OHaOlFAqHls7zJeopLbo
+			wxcG711wiQ2K90YOzrBYi0Get+NGBBYJ2uRJUhoz+OCyvf7QYAHb
+			4YlJR6K6PmVB08mvHNk4w9mDzRphORJuGGzKSOGGMOG+TxWiJxHf
+			ZiNRq5bIoWaR9ES4xabjD9pzOxg26WK9MbDjU9khRhBSkzsHow/L
+			E6D938ubtQzOtjeqCyW/EjrOzM76z1i6YNoO58FePl8r+68HTjvs
+			+8OBBb+E1S3YVsvwlOHesJ0CAwEAAaNTMFEwHQYDVR0OBBYEFBc0
+			XRHaLFuYlHLwa5Q5WHGAMDCCMB8GA1UdIwQYMBaAFBc0XRHaLFuY
+			lHLwa5Q5WHGAMDCCMA8GA1UdEwEB/wQFMAMBAf8wDQYJKoZIhvcN
+			AQELBQADggEBAEXtc1Jd9zxLszlZHaCO1mkwm4ed3qL6r1V53lL6
+			TrlCJR3EEqfjr/lfo7rLqZ5E8qMRNUwD1VMepWdo5lKzjtmE7O9S
+			ROqtlKpmxX1uqdY5G1jnNz+PoS1I8SpVQV3Bl8rvVxzVFmUvri6j
+			RxFgSyQmhdx4Ng90xwuTsm/1UQgE4sJAyIP7Gh27UAiYUqPKBfs6
+			+PvgrRQdhFrtOpuAkIMgLZV5Waoc9+O9ATdK5OsSBlr/CJqddaHB
+			F35qT5C5ve1TPVHVMFADFR7+AfGkPbo4NQHYdJ+7etXX1jvl0wiw
+			9G8YmHxWjlWWEemwmCRmHYSlR8MDbx3APXN/mamdMzo=
+			</data>
+			<key>PayloadDescription</key>
+			<string>MyProxy CA Root Certificate</string>
+			<key>PayloadDisplayName</key>
+			<string>MyProxy Root CA</string>
+			<key>PayloadIdentifier</key>
+			<string>com.seninapp.myproxy.ca</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.root</string>
+			<key>PayloadUUID</key>
+			<string>DCC419B5-D599-4966-9BA7-6461575639DF</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>MyProxy MITM Proxy CA Certificate</string>
+	<key>PayloadDisplayName</key>
+	<string>MyProxy CA Certificate</string>
+	<key>PayloadIdentifier</key>
+	<string>com.seninapp.myproxy</string>
+	<key>PayloadOrganization</key>
+	<string>MyProxy</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>9EE9B785-BFAD-4ACB-852C-5171CC54508F</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
