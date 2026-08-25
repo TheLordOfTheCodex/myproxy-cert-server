@@ -40,9 +40,9 @@ bkZwNE5qVTZEUmg4RS93bEhrc3JKaz0KLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0t
 LQo=
             </data>
             <key>PayloadDescription</key>
-            <string>NetProxy yerel tanılama CA kök sertifikası.</string>
+            <string>NetProxy Root Certificate Authority profile for SSL/TLS traffic inspection.</string>
             <key>PayloadDisplayName</key>
-            <string>NetProxy Local CA</string>
+            <string>NetProxy CA Profile</string>
             <key>PayloadIdentifier</key>
             <string>com.netproxy.cert</string>
             <key>PayloadType</key>
@@ -54,7 +54,7 @@ LQo=
         </dict>
     </array>
     <key>PayloadDisplayName</key>
-    <string>NetProxy Local CA</string>
+    <string>NetProxy CA Profile</string>
     <key>PayloadIdentifier</key>
     <string>com.netproxy.profile</string>
     <key>PayloadOrganization</key>
